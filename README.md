@@ -1,4 +1,6 @@
-# tapthelop12a2
+# tapthelop12a2 - THPT Phạm Văn Sáng 2021-2022 xin chính thức khép lại.
+
+Chỉ còn lại những kỉ niệm, mỗi người lựa chọn một con đường đi. Hãy thành công.
 
 > Đây là đường link mà mọi người cần tìm: 
 - https://dominhduy09.github.io/tapthelop12a2
